@@ -20,5 +20,5 @@ function makeRobotAccountant() {
     };
   };
 }
-
+//comment
 module.exports = makeRobotAccountant;
